@@ -2,10 +2,20 @@ class add
   {
    public static void main(String args[])
    {
-    int a=4,b=6,c;
+    int a=24,b=6,c,d,p,s;
     c=a+b;
+    d=a/b;
+    p=a*b;
+    s=a-b;
     System.out.println("Value of a="+a);
     System.out.println("Value of b="+b);
     System.out.println("sum of a&b="+c);
+    System.out.println("div of a&b="+d);
+    System.out.println("product of a&b="+p);
+    System.out.println("subtract of a&b="+s);
     }
    }
+
+
+
+thank you :)
